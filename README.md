@@ -1,6 +1,6 @@
 ### Oi! Sou o Isaac! :raccoon:
 
-Me chamo Isaac Farias e sou um desenvolvedor web! Uso o github para deixar projetos pessoais e profissionais e também para marcar meu aprendizado.
+Me chamo Isaac Farias e sou um desenvolvedor web! Uso o github para deixar meus projetos pessoais e profissionais e também para marcar meu aprendizado.
 Tenho um amor muito grande por codar, RPG, e video-game, e sempre que posso estou misturando as três coisas por aqui!
 
 - :cowboy_hat_face: Meus pronomes são ele/dele
