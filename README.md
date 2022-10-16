@@ -4,7 +4,7 @@ Me chamo Isaac Farias e sou desenvolvedor! Uso o github para deixar meus projeto
 Tenho um amor muito grande por codar, RPG, e video-game, e sempre que posso estou misturando as três coisas por aqui!
 
 - :cowboy_hat_face: Meus pronomes são ele/dele
-- 🌱 Estou aprendendo Typescripst
+- 🌱 Estou aprendendo MongoDB
 - 💼 Procuro oportunidades profissionais
 - :e-mail: Meu e-mail de contato: riderzerotg@gmail.com
 - :crocodile: Meu discord: iskandarzero#4215
