@@ -1,6 +1,6 @@
-### Oi! Sou o Isaac! :raccoon:
+### Olá, eu sou o Isaac! :raccoon:
 
-Sou um desenvolvedor em início de carreira! Uso o github para deixar meus projetos pessoais e profissionais e também para marcar meu aprendizado.
+Sou um desenvolvedor full stack! Uso o github para deixar meus projetos pessoais e profissionais e também para marcar meu aprendizado.
 Tenho um amor muito grande por codar, RPG, e video-game, e sempre que posso estou misturando as três coisas por aqui!
 
 - :cowboy_hat_face: Meus pronomes são ele/dele
