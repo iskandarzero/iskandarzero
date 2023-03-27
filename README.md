@@ -4,7 +4,7 @@ Sou um desenvolvedor full stack e uso o github para deixar meus projetos pessoai
 Tenho um amor muito grande por codar, RPG, e video-game, e sempre que posso estou misturando as três coisas por aqui!
 
 - :cowboy_hat_face: Meus pronomes são ele/dele
-- 🌱 Estou aprendendo Python
+- 🌱 Estou aprendendo JAVA
 - 💼 Procuro oportunidades profissionais
 - :e-mail: Meu e-mail de contato: riderzerotg@gmail.com
 - :crocodile: Meu discord: iskandarzero#4215
@@ -22,6 +22,7 @@ Tenho um amor muito grande por codar, RPG, e video-game, e sempre que posso esto
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
