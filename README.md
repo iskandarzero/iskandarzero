@@ -1,5 +1,7 @@
 ### Olá, eu sou o Isaac! :raccoon:
 
+<img src="https://user-images.githubusercontent.com/95292969/190830516-a6bb700f-5eb6-479f-a675-3559287c0fab.gif" alt="drawing" align="right" width="400"/>
+
 Sou um desenvolvedor full stack e uso o github para deixar meus projetos pessoais, profissionais e para marcar meu aprendizado.
 Tenho um amor muito grande por codar, RPG, e video-game, e sempre que posso estou misturando as três coisas por aqui!
 
@@ -8,13 +10,8 @@ Tenho um amor muito grande por codar, RPG, e video-game, e sempre que posso esto
 - 💼 Procuro oportunidades profissionais
 - :e-mail: Meu e-mail de contato: riderzerotg@gmail.com
 - :crocodile: Meu discord: iskandarzero#4215
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brtfarias/)
-
-![mischacrossing-twitch](https://user-images.githubusercontent.com/95292969/190830516-a6bb700f-5eb6-479f-a675-3559287c0fab.gif)
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/iskandarzero/)
-![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ## Tecnologias
 
@@ -36,4 +33,4 @@ Tenho um amor muito grande por codar, RPG, e video-game, e sempre que posso esto
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarzero&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskandarzero&layout=compact)
